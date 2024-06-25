@@ -27,7 +27,7 @@ int main(void){
 //O ponteiro tem um tipo associado que deve ser o mesmo da variável ao qual esse ponteiro vai guardar o endereço.
 // tipo *nome_ponteiro
 // & (adress aperator) = recupera o endereço de uma variável para que possa ser passado para um ponteiro, por exemplo.
-//*(dereference operator) = Qunaodo colocado antes de um ponteiro já criado recupera o conteúdo do endereço armazenado dentro do ponteiro
+//*(dereference operator) = Quando colocado antes de um ponteiro já criado recupera o conteúdo do endereço armazenado dentro do ponteiro (indica que refere-se ao dado armazenado na posição e não o endereço)
 // %p = caractere de formato que mostra o endereço que um determinado ponteiro armazena no printf, por exemplo
 //MODIFICANDO O VALOR ARMAZENADO EM UM PONTEIRO:
 /*
